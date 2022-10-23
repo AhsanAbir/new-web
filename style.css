@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-family: poppins;
+}
+.top{
+color: red;
+}
+.first{
+    width: 40%;
+    float:left;
+    margin-left: 3%;
+    padding-left: 4%;
+    
+}
+
+.first img {
+    width: 100%;
+}
